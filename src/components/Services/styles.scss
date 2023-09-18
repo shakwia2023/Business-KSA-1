@@ -1,0 +1,50 @@
+.services {
+	text-align: center;
+	max-width: 1000px;
+	margin: 50px auto;
+
+	.services-content {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		margin: 30px auto;
+		gap: 15px;
+
+		.service-box {
+			width: 210px;
+			background-color: #fff;
+			padding: 10px;
+			border-radius: 5px;
+			box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+			margin: 0 auto;
+
+			.service-icon {
+				background-color: var(--main-color);
+				padding: 15px;
+				border-radius: 50%;
+				color: #fff;
+				font-size: 35px;
+			}
+
+			.service-title {
+				font-weight: 600;
+				font-size: 18px;
+			}
+
+			.service-descripton {
+				font-size: 15px;
+				line-height: 1.5;
+			}
+		}
+	}
+
+	.what-are-we-doing {
+		margin: 50px auto;
+
+		.what-are-we-doing-p {
+			margin: 0;
+			font-size: 20px;
+			line-height: 1.5;
+		}
+	}
+}

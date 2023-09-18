@@ -1,0 +1,72 @@
+.home {
+	width: 100%;
+	box-sizing: border-box;
+	.inside-slider {
+		background-color: rgba($color: #000000, $alpha: 0.65);
+		height: calc(100% - 180px);
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		padding-bottom: 180px;
+
+		.business-name {
+			font-size: 45px;
+			font-weight: 600;
+			text-shadow: 2px 5px 5px rgba(255, 255, 255, 0.3), 0px -4px 10px rgba(0, 0, 0, 0.3);
+			display: flex;
+
+			.fixed-name {
+				color: #fff;
+				flex: 1;
+				margin: 0px 5px;
+			}
+
+			.animated-name {
+				color: var(--main-color);
+				overflow: hidden;
+				animation: 3s slideText;
+				margin: 0px 5px;
+				white-space: nowrap;
+			}
+
+			@keyframes slideText {
+				from {
+					flex: 0;
+				}
+				to {
+					flex: 1;
+				}
+			}
+		}
+
+		.campaign-intro {
+			color: #fff;
+			margin: 30px 10px;
+			text-shadow: 2px 5px 5px rgba(255, 255, 255, 0.3), 0px -4px 10px rgba(0, 0, 0, 0.3);
+			text-align: center;
+			font-size: 18px;
+			max-width: 800px;
+		}
+
+		.scroll-down-btn {
+			position: absolute;
+			cursor: pointer;
+			color: #fff;
+			font-size: 80px;
+			animation: 1s jumpingArrow infinite;
+		}
+
+		@keyframes jumpingArrow {
+			0% {
+				bottom: 150px;
+			}
+			50% {
+				bottom: 170px;
+			}
+			100% {
+				bottom: 150px;
+			}
+		}
+	}
+}

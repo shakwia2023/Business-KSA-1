@@ -1,0 +1,199 @@
+{
+	"business_name": "Submit a report",
+	"home": "Home",
+	"about": "About Us",
+	"submit_report": "Submit a report",
+	"contact_us": "Contact Us",
+	"opening_hours": "Opening Hours",
+	"closed": "Closed",
+	"phone_service": "Phone Service",
+	"phone_number": "Phone Number",
+	"whatsapp_number": "Whatsapp Number",
+	"location": "Location",
+	"rights_reserved": "All Rights reserved",
+	"start_now": "Start NOW",
+	"follow_us": "Follow Us",
+	"aboutLine1": "We are a team of experts specializing in combating online financial fraud. Our main goal is to protect consumers' rights and assist them in recovering lost funds due to fraudulent activities.",
+	"aboutLine2": "We offer an innovative online service that enables users to easily and quickly file complaints and reports. We are dedicated to thoroughly examining and analyzing complaints related to fraud, both from technical and legal perspectives, and we provide free consultations to consumers who have fallen victim to financial deception.",
+	"aboutLine3": "We are here to help you recover your money and safeguard your financial interests. Join us today to become partners in building a safer online world. We are committed to providing the protection and support you need to ensure your financial security.",
+	"our_services": "Our Services",
+	"services": [
+		{
+			"title": "Online Financial Fraud Protection Service",
+			"description": "We provide a specialized service to combat online financial fraud, working to secure your financial rights and assist you in recovering lost funds."
+		},
+		{
+			"title": "Efficient Electronic Reporting Service",
+			"description": "We offer a service that simplifies the process of submitting your reports and complaints efficiently, allowing you to easily track their status."
+		},
+		{
+			"title": "Online Financial Interests Protection Consultations",
+			"description": "We offer specialized consultations to protect your financial interests online and help you understand how to benefit from innovative services to safeguard your finances."
+		},
+		{
+			"title": "Financial Fraud Risk Awareness Service",
+			"description": "We offer awareness courses and workshops to raise awareness about the risks of online financial fraud and how to avoid them."
+		}
+	],
+	"campaign-intro": "In our digital age, online financial fraud issues are a significant challenge. However, did you know that there are innovative electronic services that can help you protect your financial rights and recover lost funds? Learn how to benefit from this service and safeguard your financial interests.",
+	"doing-line1": "Today, we offer you a unique electronic service that empowers consumers to protect their financial rights and recover lost funds. Complaints and financial issues will no longer be a source of concern; there will be a reliable means to address these matters.",
+	"doing-line2": "Through our electronic service, you can easily submit your complaints and reports. This service specializes in accurately processing, examining, and analyzing complaints related to fraud from both a technical and legal perspective. There's no need to feel helpless or frustrated when dealing with these complex issues.",
+	"doing-line3": "We also assist you in recovering stolen or lost financial funds. We handle various types of financial fraud, from purchasing properties from fake companies to shopping on suspicious online platforms and dealing with unlicensed investment firms. Whether you've lost money due to unauthorized purchases or false promises of cash prizes, we are here to help you recover your financial rights.",
+	"doing-line4": "You are not alone in this; we provide free consultations and support to individuals who have fallen victim to financial fraud. If you believe you have lost money or been a victim of financial fraud, we welcome you to file your report for recovery now.",
+	"doing-line5": "Our collaboration can be the first step toward protecting your financial rights and contributing to a safer online world. Feel free to contact us for more information and support.",
+	"form_title": "Register your complaint now!",
+	"form_description": "Please fill out the form completely, and add any details that may be useful.",
+	"form_button_value": "Submit your report",
+	"form_full_name": "Full Name",
+	"form_email": "E-mail",
+	"form_phone_number": "Phone Number",
+	"form_details": "Write your problem briefly - in a line or two.",
+	"thankyou": "Thank You",
+	"thankyou_text": "Your request has been sent successfully and we will contact you as soon as possible",
+	"order_number": "Order number",
+	"goto_home_page": "Home page",
+	"privacy_policy": "Privacy policy",
+	"terms_conditions": "Terms and conditions",
+	"policies": [
+		{
+			"title": "Introduction",
+			"size": 20,
+			"description": "We welcome you and appreciate your visit to our website. We are committed to protecting your privacy and the confidentiality of your personal information. This policy aims to clarify how we collect, use, and protect the information you provide to us when you visit our website and use our services. By browsing this website and using its services, you agree to the terms and conditions outlined in this policy."
+		},
+		{
+			"title": "Information Collection",
+			"size": 20,
+			"description": "We collect specific information about you when you use our website and services. This information includes:"
+		},
+		{
+			"title": "Personal Information",
+			"size": 16,
+			"description": "Such as full name, email address, and phone number."
+		},
+		{
+			"title": "Technical Information",
+			"size": 16,
+			"description": "Such as IP address, the type of browser you are using, and the operating system you are using."
+		},
+		{
+			"title": "Website Usage Information",
+			"size": 16,
+			"description": "Includes information about how you use the website, such as the pages you visit and the time you spend on the website."
+		},
+		{
+			"title": "Use of Information",
+			"size": 20,
+			"description": "We use the information we collect for the following purposes:"
+		},
+		{
+			"title": "Providing Services",
+			"size": 16,
+			"description": "We use your information to provide the services you request from us, such as receiving reports and complaints about online financial fraud."
+		},
+		{
+			"title": "Improving the Website",
+			"size": 16,
+			"description": "We use the information to analyze how the website is used and improve its performance and content."
+		},
+		{
+			"title": "Communicating with You",
+			"size": 16,
+			"description": "We use your contact information to communicate with you regarding your inquiries and reports."
+		},
+		{
+			"title": "Compliance with Laws",
+			"size": 16,
+			"description": "We process information in accordance with applicable laws and regulations."
+		},
+		{
+			"title": "Information Protection",
+			"size": 20,
+			"description": "We take strict security measures to protect the information we collect from unauthorized access or use. However, we cannot guarantee complete security of information over the internet."
+		},
+		{
+			"title": "Information Sharing",
+			"size": 20,
+			"description": "We are committed to not selling or sharing your personal information with any third parties without your explicit consent, except when required by law or necessary to provide the services you request."
+		},
+		{
+			"title": "Links to Other Websites",
+			"size": 20,
+			"description": "Our website contains links to other websites. We are not responsible for the privacy policies or practices on other websites. We recommend reviewing the privacy policies of those websites before providing your personal information."
+		},
+		{
+			"title": "Changes to Privacy Policy",
+			"size": 20,
+			"description": "We reserve the right to update this policy at any time without prior notice. The new version of the policy will be effective immediately upon publication on our website."
+		},
+		{
+			"title": "Contact Us",
+			"size": 20,
+			"description": "If you have any questions or comments about this privacy policy, please contact us."
+		},
+		{
+			"title": "We appreciate your understanding of our privacy policy and your trust.",
+			"size": 20,
+			"description": ""
+		}
+	],
+	"terms_and_conditions": [
+		{
+			"title": "Introduction",
+			"size": 20,
+			"description": "Welcome to our website. These terms and conditions govern your use of our website and services. By accessing and using our website, you agree to comply with these terms and conditions."
+		},
+		{
+			"title": "Use of Our Website",
+			"size": 20,
+			"description": "You may use our website for lawful purposes only. You are prohibited from using our website in a way that could harm or disrupt our services, infringe upon the rights of others, or violate any applicable laws and regulations."
+		},
+		{
+			"title": "User Accounts",
+			"size": 20,
+			"description": "If you create an account on our website, you are responsible for maintaining the confidentiality of your account information and password. You agree to notify us immediately of any unauthorized use of your account."
+		},
+		{
+			"title": "Intellectual Property",
+			"size": 20,
+			"description": "All content on our website, including text, graphics, logos, and images, is protected by intellectual property rights. You may not use, reproduce, or distribute our content without our express permission."
+		},
+		{
+			"title": "Privacy Policy",
+			"size": 20,
+			"description": "Your use of our website is also governed by our Privacy Policy. By using our website, you consent to the collection, use, and sharing of your information as described in our Privacy Policy."
+		},
+		{
+			"title": "Limitation of Liability",
+			"size": 20,
+			"description": "We do not guarantee the accuracy, completeness, or reliability of the information on our website. We are not liable for any damages or losses arising from your use of our website or services."
+		},
+		{
+			"title": "Indemnification",
+			"size": 20,
+			"description": "You agree to indemnify and hold us harmless from any claims, damages, or losses arising from your use of our website or any violation of these terms and conditions."
+		},
+		{
+			"title": "Changes to Terms and Conditions",
+			"size": 20,
+			"description": "We reserve the right to update these terms and conditions at any time without prior notice. It is your responsibility to review these terms regularly. Your continued use of our website after any changes constitutes acceptance of the updated terms."
+		},
+		{
+			"title": "Governing Law",
+			"size": 20,
+			"description": "These terms and conditions are governed by and construed in accordance with the laws of [Your Jurisdiction]. Any disputes arising from these terms and your use of our website shall be subject to the exclusive jurisdiction of the courts in [Your Jurisdiction]."
+		},
+		{
+			"title": "Contact Us",
+			"size": 20,
+			"description": "If you have any questions or concerns about these terms and conditions, please contact us."
+		},
+		{
+			"title": "Thank you for using our website.",
+			"size": 20,
+			"description": ""
+		}
+	],
+	"agree_terms": "I agree to the",
+	"and": "and",
+	"rules_error": "Please agree to the Terms and Conditions and Privacy Policy."
+}

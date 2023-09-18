@@ -1,0 +1,54 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+	font-family: "Rift Soft", "Cairo", "Varela Round", sans-serif, "DroidArabicKufiRegular", "DroidSans";
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: var(--body-bg);
+	direction: ltr;
+}
+
+body.rtl {
+	direction: rtl;
+}
+
+code {
+	font-family: "Rift Soft", "Cairo", "Varela Round", sans-serif, "DroidArabicKufiRegular", "DroidSans";
+}
+
+@font-face {
+	font-family: "Rift Soft";
+	src: url("./font/Rift\ Soft\ Regular.otf") format("opentype");
+}
+
+a {
+	color: var(--main-color);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+body::-webkit-scrollbar {
+	width: 6px;
+	height: 6px;
+}
+
+body::-webkit-scrollbar-track {
+	border-radius: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+	background-color: var(--main-color);
+	border-radius: 10px;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}

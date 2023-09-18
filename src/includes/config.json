@@ -1,0 +1,36 @@
+{
+	"server_URI": "https://campaign-server-82c03047c338.herokuapp.com",
+
+	"Authorization": {
+		"username": "Ma16jdH1a9n9n7a",
+		"password": "M1aj6d_1H6A1n9n9A7"
+	},
+
+	"whatsapp_message": "السلام عليكم",
+
+	"campaignName": "Business-KSA-1",
+
+	"opening_hours": [
+		{ "from": "08:30", "to": "16:30" },
+		{ "from": "08:30", "to": "16:30" },
+		{ "from": "08:30", "to": "16:30" },
+		{ "from": "08:30", "to": "16:30" },
+		{ "from": "08:30", "to": "16:30" },
+		{ "from": null, "to": null },
+		{ "from": null, "to": null }
+	],
+
+	"telephone": null,
+	"whatsapp_number": null,
+
+	"location": {
+		"ar": "شارع سيدة الرؤساء, الرياض، المملكة العربية السعودية",
+		"en": "Sayyidah Ar Ruasa, As Sulimaniyah, Riyadh, Saudi Arabia",
+		"location": "24.7136,46.6774887"
+	},
+
+	"rtl_languages": ["ar"],
+
+	"instagram": null,
+	"facebook": null
+}
